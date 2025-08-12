@@ -38,7 +38,8 @@ terraform plan
 terraform validate
 terraform apply
 ```
-👨‍💻 Author
+👨‍💻 ## Author
+
 Tejaswi Pathak
 
 💼 DevOps Enthusiast | Cloud & Automation Engineer
