@@ -38,7 +38,7 @@ terraform plan
 terraform validate
 terraform apply
 ```
-👨‍💻 ## Author
+## 👨‍💻  Author
 
 Tejaswi Pathak
 
